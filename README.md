@@ -1,1 +1,5 @@
-# climatemodels_nexus
+### INTRODUCCIÓN A LOS MODELOS CLIMÁTICOS
+##### Taller Nexus UNALM
+Marvin J. Quispe Sedano
+
+   
